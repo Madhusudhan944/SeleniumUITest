@@ -1,0 +1,26 @@
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.deps.json
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.runtimeconfig.json
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.runtimeconfig.dev.json
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.dll
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.pdb
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.csprojAssemblyReference.cache
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.AssemblyInfoInputs.cache
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.AssemblyInfo.cs
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.dll
+C:\Users\kuruba\source\repos\Selenium Testxunit\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.pdb
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.deps.json
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.runtimeconfig.json
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.runtimeconfig.dev.json
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.dll
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\bin\Debug\netcoreapp2.1\Selenium Testxunit.pdb
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.csprojAssemblyReference.cache
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.AssemblyInfoInputs.cache
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.AssemblyInfo.cs
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.dll
+C:\Users\kuruba\source\repos\public git\SeleniumUITest\Selenium Testxunit\obj\Debug\netcoreapp2.1\Selenium Testxunit.pdb
